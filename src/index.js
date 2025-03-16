@@ -64,7 +64,7 @@ function createSliceBackground(w,h)
     {
         const x  = 0|Math.random() * w2
         const y  = 0|Math.random() * h
-        const l  = (0|Math.pow(Math.random(), 8) * 4) + 1
+        const l  = (0|Math.pow(Math.random(), 8) * 3) + 1
 
         ctx.fillStyle = palette[0|Math.random() * palette.length]
         ctx.fillRect(x, y, l*l, 1);
@@ -143,7 +143,7 @@ domready(
             const slices = createSlices(heightInSlices)
 
             const positions = slices.map(() => Math.random() * width)
-            const steps = slices.map(() => (Math.sqrt(Math.random()) * 4) + 1)
+            const steps = slices.map(() => (Math.pow(Math.random(), 2) * 4) + 1)
 
             updatePositions(slices, positions)
 
