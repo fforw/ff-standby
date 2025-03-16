@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e767483-5f4f-4096-9581-486fe5869dd2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/simple-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simple-starter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +29,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sven/ideaprojects/ff-standby&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sven/ideaprojects/gen-110&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -112,6 +108,12 @@
       <workItem from="1720891991306" duration="15000" />
       <workItem from="1740771566004" duration="2674000" />
       <workItem from="1740830731970" duration="5324000" />
+      <workItem from="1740918316446" duration="22000" />
+      <workItem from="1740918412327" duration="21000" />
+      <workItem from="1740918438472" duration="20000" />
+      <workItem from="1741389246645" duration="634000" />
+      <workItem from="1741465883576" duration="651000" />
+      <workItem from="1742127741832" duration="20000" />
     </task>
     <servers />
   </component>
